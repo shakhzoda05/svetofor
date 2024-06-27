@@ -1,0 +1,41 @@
+.wrapper {
+  margin-top: 150px;
+  padding: 10px;
+  background-color: rgb(152, 98, 80);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 115px;
+  gap: 5px;
+  margin-left: 50px;
+}
+body {
+  background-image: url(../images/road.jpg);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: 100%;
+  margin-bottom: 160px;
+}
+.card {
+  width: 85px;
+  height: 85px;
+  background-color: black;
+  border-radius: 50%;
+}
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.st-pasi {
+  background-color: rgb(152, 98, 80);
+  width: 75px;
+  height: 206px;
+  margin-left: 80px;
+}
